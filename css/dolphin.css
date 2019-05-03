@@ -18,5 +18,9 @@ html {
   right: 0;
 }
 
-/* Write your solution here */
+@media screen only and (min-width: 642px) and (max-width: 1090px) {
+  #dolphin {
+    top: 200px;
+}
 
+/* Write your solution here */
